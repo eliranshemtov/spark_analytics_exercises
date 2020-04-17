@@ -6,7 +6,8 @@ Here is an overview of the execise...
 
 
 ## How to run?
-Here are running instructions...
+Run the 'run' powershell script (which is essentially a docker run with args command). <br>
+When the container is up, a URL with a security token will be printed --> Open this URL in your browser.
 
 ## Data Sources
 1. [Top Covid19 Countries and Health Demographic Trend](https://www.kaggle.com/timxia/top-covid19-countries-and-health-demographic-trend#top_countries_latest_metric_summary.csv)
@@ -17,8 +18,11 @@ Here are running instructions...
 6. [Doctors and nurses by country](https://www.kaggle.com/antgoldbloom/doctors-and-nurses-per-1000-people-by-country)
 7. ***[Yahoo! finance](https://finance.yahoo.com/)
 
+
+
+<br> <br> <br> <br> <br> <br> 
 ******
-*** The Stocks historical data taken from Yahoo! finance is of the following companies:
+*** The Stocks historical data taken from Yahoo! finance is of the following companies between 11/4/2019-11/4/2020:
 * The Boeing Company (BA)
 * Delta Air Lines, Inc. (DAL)
 * United Airlines Holdings, Inc. (UAL)
