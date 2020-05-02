@@ -8,10 +8,14 @@ In this Exercise I demonstrated data manipulation capabilities using plain Pyspa
 In order to generate plots I used **matplotlib, seaborn, pandas and jupyter-gmaps** for Google Maps API consumption.
 
 
+## Looking for the notebook itself? 
+[My jupyter notebook with the assignment](https://github.com/eliranshemtov/spark_analytics_exercises/blob/master/Exercise%201/notebook/Spark_anlytics_exc1.ipynb)
 
 ## How to run?
 Run the 'run' powershell script (which is essentially a docker run with args command). <br>
 When the container is up, a URL with a security token will be printed --> Open this URL in your browser.
+
+
 
 ## Data Sources
 
