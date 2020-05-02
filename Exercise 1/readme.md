@@ -2,7 +2,11 @@
 ### Eliran Shem Tov | #ID 301806097
 
 ## Overview
-Here is an overview of the execise...
+1st Exercise in **"Big Data analysis"** course, as part of my CS Master's degree. <br>
+Main purpose: practice and demonstrate work with Spark. <br>
+In this Exercise I demonstrated data manipulation capabilities using plain Pyspark as well as higher level modules, such as SparkSQL. <br>
+In order to generate plots I used **matplotlib, seaborn, pandas and jupyter-gmaps** for Google Maps API consumption.
+
 
 
 ## How to run?
@@ -13,18 +17,3 @@ When the container is up, a URL with a security token will be printed --> Open t
 
 1. [Kaggle - COVID-19 in India](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 2. [Kaggle - Air quality in India](https://www.kaggle.com/shrutibhargava94/india-air-quality-data)
-3. ***[Yahoo! finance](https://finance.yahoo.com/)
-
-
-
-<br> <br> <br> <br> <br> <br> 
-******
-*** The Stocks historical data taken from Yahoo! finance is of the following companies between 11/4/2019-11/4/2020:
-* The Boeing Company (BA)
-* Delta Air Lines, Inc. (DAL)
-* United Airlines Holdings, Inc. (UAL)
-* Alphabet Inc. (GOOG)
-* Microsoft Corporation (MSFT)
-* Apple Inc. (AAPL)
-
-
