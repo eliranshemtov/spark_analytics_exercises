@@ -1,0 +1,598 @@
+('match .com', 'match.com'),0.6666666666666666
+('advanceautoparts.com', 'yahoo.com'),0.6666666666666666
+('advanceautoparts.com', 'autozone.com'),0.6666666666666666
+('advanceautoparts.com', 'jcwhitney'),0.6666666666666666
+('itp', 'ptsd'),0.6666666666666666
+('definityhealth4target.com', 'www.definityhealth4target.com'),0.6666666666666666
+('www.musicvideos.com', 'www.myspace.com'),0.6666666666666666
+('www.musicvideos.com', 'yahoo.com'),0.6666666666666666
+('bennington', 'mapquest'),0.6666666666666666
+('myspace comment box', 'myspace.com'),0.6666666666666666
+('grandparents day', 'yahoo'),0.6666666666666666
+('cicuit city', 'circuit city'),0.8
+('iwantu', 'yahoo'),0.6666666666666666
+('ahs', 'google'),0.6666666666666666
+('www.dexonline.com', 'yahoo.com'),0.6666666666666666
+('www.dexonline.com', 'www.mapquest.com'),0.6666666666666666
+('ralphs', 'yahoo'),0.6666666666666666
+('ralphs', 'white pages'),0.6666666666666666
+('josh duhamel', 'tom cruise'),0.6666666666666666
+('msn.', 'msn.com'),0.7142857142857143
+('ccc', 'monster'),0.75
+('ilwu', 'walmart'),0.6666666666666666
+('ludacris lyrics', 'm'),0.6666666666666666
+('ludacris lyrics', 'yahoo.com'),0.6666666666666666
+('billabong', 'sears'),0.6666666666666666
+('mr food', 'orbitz'),0.6666666666666666
+('www.cartonnetwork.com', 'www.cartoonnetwork.com'),0.6666666666666666
+('ads001.webwombat.com.au', 'internet'),0.6666666666666666
+('ears', 'sears'),0.7142857142857143
+('grammy winner lou', 'parenting author eda'),0.6666666666666666
+('grammy winner lou', 'saxophonist al'),0.6666666666666666
+('grammy winner lou', "maker of zima and killian's irish red"),0.6666666666666666
+('grammy winner lou', 'hindu avatar'),0.6666666666666666
+('grammy winner lou', 'need you tonight group 1987'),0.6666666666666666
+('grammy winner lou', 'sea lettuce'),0.6666666666666666
+('grammy winner lou', 'phedre playwright'),0.6666666666666666
+('grammy winner lou', 'the beloved physician'),0.6666666666666666
+('grammy winner lou', 'only time singer'),0.6666666666666666
+('grammy winner lou', 'waughs'),0.6666666666666666
+('grammy winner lou', 'sitarist shankar'),0.6666666666666666
+('grammy winner lou', 'twin sister of ares'),0.6666666666666666
+('grammy winner lou', 'singer brickell'),0.6666666666666666
+('grammy winner lou', 'ocean state school'),0.6666666666666666
+('grammy winner lou', "it's deja vu all over again speaker"),0.6666666666666666
+('grammy winner lou', 'tokyo airport'),0.6666666666666666
+('grammy winner lou', 'speed-skating gold medalist karin'),0.6666666666666666
+('grammy winner lou', 'utah lilies'),0.6666666666666666
+('grammy winner lou', 'trainspotting star bremner'),0.6666666666666666
+('orange county public schools', 'target'),0.6666666666666666
+('chiropractic schools', 'forefoot equinus'),0.6666666666666666
+('chiropractic schools', 'podiatry schools'),0.6666666666666666
+('chiropractic schools', 'masai'),0.6666666666666666
+('chiropractic schools', 'wikipedia'),0.6666666666666666
+('federal inmates', 'irs'),0.75
+('sex scenes', 'the libertine'),0.6666666666666666
+('sex scenes', 'softcore sex clips'),0.6666666666666666
+('sex scenes', 'softcore sex scenes'),0.6666666666666666
+('sex scenes', 'softcore sex'),0.6666666666666666
+('gibson les paul', 'guitar center'),0.6666666666666666
+('electric fireplaces', 'mapquest'),0.6666666666666666
+('foo', 'g'),0.6666666666666666
+('foo', 'google.com'),0.6666666666666666
+('bubble trouble', 'gogle'),0.6666666666666666
+('bubble trouble', 'google'),0.6666666666666666
+('blood type diet', 'google'),0.6666666666666666
+('death penalty', 'prom dresses'),0.6666666666666666
+('ace of base', 'quizzes'),0.6666666666666666
+('dress up', 'google'),0.75
+('led zeppelin lyrics', 'myspace.com'),0.6666666666666666
+('free people clothing', 'weather'),0.6666666666666666
+('free people clothing', 'google'),0.6666666666666666
+('baseball classic', 'world baseball classic'),0.6666666666666666
+('bar furniture', 'yellow pages'),0.6666666666666666
+('bar furniture', 'google'),0.6666666666666666
+('albany university', 'lehigh university'),0.6666666666666666
+('big booties', 'google'),0.75
+('columbus ga', 'walmart'),0.6666666666666666
+('columbus ga', 'target'),0.6666666666666666
+('columbus ga', 'fort benning ga'),0.6666666666666666
+('louisville truck show', 'mapquest'),0.6666666666666666
+('t.i lyrics', 'yahoo.com'),0.6666666666666666
+('t.i lyrics', 'www.yahoo.com'),0.6666666666666666
+('order.internic.co.ukelite', 'www.google.com'),0.6666666666666666
+('jovani', 'weather'),0.6666666666666666
+('gle', 'google'),0.84
+('life with derek', 'phil of the future'),0.6666666666666666
+('life with derek', "ned's declassified school survival guide"),0.6666666666666666
+('life with derek', 'shrek'),0.6666666666666666
+('life with derek', 'zoey 101'),0.6666666666666666
+('http www.microsoft.com', 'im help'),0.6666666666666666
+('express for men', 'toyota'),0.6666666666666666
+('kevin peter hall', 'predator'),0.6666666666666666
+('ww.marriott.com', 'www.marriott.com'),0.6666666666666666
+('reggae', 'walmart'),0.6666666666666666
+('dsusd', "grey's anatomy"),0.6666666666666666
+('dsusd', 'mapquest'),0.6666666666666666
+('pokemoncrater', 'runescape'),0.6666666666666666
+('cabrillo college', 'ebay'),0.6666666666666666
+('cute love quotes', 'love quotes'),0.6666666666666666
+('liz clairborne', 'prada makeup'),0.6666666666666666
+('nelly lyrics', 'yahoo.com'),0.6666666666666666
+('amortization schedules', 'google'),0.6666666666666666
+('billiards', 'google'),0.75
+('anntaylorloft.com', 'linens and things'),0.6666666666666666
+('www gppg;e cp', 'www.google.com'),0.6666666666666666
+('blue cross blue shield of north carolina', 'google'),0.75
+('afp', 'mapquest'),0.6666666666666666
+('blue collar tour', 'ebay'),0.6666666666666666
+('blue collar tour', 'blue coller tour'),0.6666666666666666
+('www.azlyricscom', 'www.yahoo.com'),0.6666666666666666
+('7.0', 'ricochet lost worlds full version'),0.6666666666666666
+('7.0', 'best buy'),0.6666666666666666
+('7.0', 'ricochet lost worlds'),0.6666666666666666
+('7.0', 'bear share'),0.6666666666666666
+('7.0', 'ricochet 20lost 20worlds'),0.6666666666666666
+('prescription solutions', 'yahoo games'),0.6666666666666666
+('popeyes chicken', 'verizon'),0.6666666666666666
+('popeyes chicken', 'usps'),0.6666666666666666
+('popeyes chicken', 'walmart'),0.6666666666666666
+('popeyes chicken', 'target'),0.6666666666666666
+('live 20help', 'live help'),0.8
+('freelayouts.com', 'yahoo.com'),0.6666666666666666
+('freelayouts.com', 'yahoo'),0.6666666666666666
+('freelayouts.com', 's'),0.6666666666666666
+('freelayouts.com', 'sprint.com'),0.6666666666666666
+('cleveland public library', 'enterprise car rental'),0.6666666666666666
+('city of boston', 'home depot'),0.6666666666666666
+('hurricane', 'noaa'),0.6666666666666666
+('hurricane', 'mapquest'),0.6666666666666666
+('fcat scores', 'myspace'),0.6666666666666666
+('fcat scores', 'jokes'),0.6666666666666666
+('california lotter', 'california lottery'),0.75
+('collage video', 'the vitamin shoppe'),0.6666666666666666
+('john freida', 'target'),0.6666666666666666
+('john freida', 'mapquest'),0.6666666666666666
+('john freida', 'pizza hut'),0.6666666666666666
+('candyland', 'w'),0.6666666666666666
+('candyland', 'm'),0.6666666666666666
+('auto auction', 'downloads'),0.6666666666666666
+('discount auto parts', 'ebay'),0.75
+('yahmail.com', 'yahoo'),0.6666666666666666
+('yahmail.com', 'yahoo.com'),0.6666666666666666
+('ballystotalfitness', 'myspace.com'),0.6666666666666666
+('altmeyers', 'google'),0.6666666666666666
+('icruise.com', 'mapquest'),0.6666666666666666
+('mary j blidge', 'yahoo.com'),0.6666666666666666
+('mary j blidge', 'myspace.com'),0.6666666666666666
+('rent a center.com', 'walmart.com'),0.6666666666666666
+('field mob', 'ne-yo'),0.6666666666666666
+('kola', 'washington post'),0.6666666666666666
+('kola', 'washington times'),0.6666666666666666
+('kola', 'mapquest'),0.6666666666666666
+('bassmaster', 'bassmasters'),0.6666666666666666
+('www.classifieds.com', 'www.google.com'),0.6666666666666666
+('zillon', 'zillon.com'),0.6666666666666666
+('nae', 'name'),0.6666666666666666
+('mixunit.com', 'yahoo.com'),0.75
+('dellsupport.com', 'www.myspace.com'),0.6666666666666666
+('craiglists', 'craigslist'),0.75
+('digitalcity.com', 'myspace.com'),0.6666666666666666
+('myspace.comp', 'ww.myspace.com'),0.6666666666666666
+('fayetteville north carolina', 'walmart'),0.6666666666666666
+('disneyland california', 'ebay'),0.6666666666666666
+('maternity', 'yahoo'),0.6666666666666666
+('maternity', 'rotten.com'),0.6666666666666666
+('kissimee', 'mapquest'),0.6666666666666666
+('freemasons', 'survivor'),0.6666666666666666
+('freemasons', 'http'),0.6666666666666666
+('king size', 'ticket master'),0.6666666666666666
+('death certificate', 'nascar'),0.6666666666666666
+('collegeclub.com', 'yahoo.com'),0.6666666666666666
+('collegeclub.com', 'myspace.com'),0.6666666666666666
+('collegeclub.com', 'ebay.com'),0.6666666666666666
+('learn to dance', 'yellow pages'),0.6666666666666666
+('www.aimexpress.aim.com', 'www.aimexpress.com'),0.6666666666666666
+('yahho', 'yahoo'),0.7
+('off broadway shoes', 'yahoo'),0.75
+('east', 'www.google.com'),0.6666666666666666
+('east', 'om'),0.6666666666666666
+('lacks furniture', 'map quest'),0.6666666666666666
+('www.wesh.com', 'www.yahoo.com'),0.6666666666666666
+('golgi apparatus', 'myspace.com'),0.6666666666666666
+('http www.hot mail.com', 'myspace.com'),0.6666666666666666
+('www.babesmachine.com', 'www.nude.hu'),0.8
+('footfetish', 'porn'),0.6666666666666666
+('footfetish', 'web md'),0.6666666666666666
+('footfetish', 'girls gone wild'),0.6666666666666666
+('chatroom.com', 'mapquest'),0.6666666666666666
+('chatroom.com', 'google'),0.6666666666666666
+('ajga.org', 'usga'),0.6666666666666666
+('www.fucking.com', 'www.yahoo.com'),0.6666666666666666
+('myspace.colm', 'myspace.com'),0.6666666666666666
+('abum', 'abum.com'),0.6666666666666666
+('abum', 'yahoo'),0.6666666666666666
+('www.your.avon.com', 'www.youravon.com'),0.6666666666666666
+('holdeverything.com', 'tietheknot.com'),0.6666666666666666
+('hotchicks', 'weather'),0.6666666666666666
+('chainsaw', 'lowes'),0.6666666666666666
+('http greatjobs.marriott.com', 'www.greatjobs.marriot.com'),0.6666666666666666
+('http greatjobs.marriott.com', 'www.greatjobs.marriott.com'),0.6666666666666666
+('http greatjobs.marriott.com', 'res'),0.6666666666666666
+('invacare', 'yahoo'),0.6666666666666666
+('trinity', 'www.yahoo.com'),0.6666666666666666
+('goggle .com', 'google'),0.6666666666666666
+('belize vacations', 'southwest airlines'),0.6666666666666666
+("david's brida", "david's bridal"),0.6666666666666666
+('goggel', 'goggle'),0.7857142857142857
+('goggel', 'google'),0.7857142857142857
+('eee.myspace.com', 'www.myspace.com'),0.6666666666666666
+('gift', 'google'),0.6666666666666666
+('gift', 'mapquest'),0.6666666666666666
+('gift', 'weather'),0.6666666666666666
+('hunt real estate', 'webmd'),0.6666666666666666
+('hunt real estate', 'town of hamburg ny'),0.6666666666666666
+('alcrew', 'google'),0.6666666666666666
+('hindu avatar', "it's deja vu all over again speaker"),0.6666666666666666
+('hindu avatar', 'new look pioneer'),0.6666666666666666
+('hindu avatar', 'twin sister of ares'),0.6666666666666666
+('hindu avatar', 'need you tonight group 1987'),0.6666666666666666
+('hindu avatar', 'trainspotting star bremner'),0.6666666666666666
+('hindu avatar', 'speed-skating gold medalist karin'),0.6666666666666666
+('hindu avatar', 'ocean state school'),0.6666666666666666
+('hindu avatar', 'singer brickell'),0.6666666666666666
+('hindu avatar', 'mountain nymph'),0.6666666666666666
+('hindu avatar', 'tokyo airport'),0.6666666666666666
+('hindu avatar', 'sitarist shankar'),0.6666666666666666
+('hindu avatar', 'only time singer'),0.6666666666666666
+('hindu avatar', 'parenting author eda'),0.6666666666666666
+('hindu avatar', 'phedre playwright'),0.6666666666666666
+('hindu avatar', "reim's department"),0.6666666666666666
+('hindu avatar', "maker of zima and killian's irish red"),0.6666666666666666
+('hindu avatar', 'saxophonist al'),0.6666666666666666
+('hindu avatar', 'utah lilies'),0.6666666666666666
+('hindu avatar', 'the beloved physician'),0.6666666666666666
+('lapd', 'mapquest'),0.75
+('patio covers', 'radio shack'),0.6666666666666666
+('fhg.xxl-hosting.com', 'traffweb.biz'),0.6666666666666666
+('caribbean weather', 'google'),0.6666666666666666
+('caribbean weather', 'united airlines'),0.6666666666666666
+('caribbean weather', 'google.com'),0.6666666666666666
+('caribbean weather', 'white pages'),0.6666666666666666
+('build me up buttercup', 'google.com'),0.6666666666666666
+('aol calender', 'mapquest'),0.75
+('fishing reports', 'google'),0.6666666666666666
+('amalgamated bank', 'map quest'),0.6666666666666666
+('amalgamated bank', 'texas'),0.6666666666666666
+('bat mitzvah themes', 'itunes'),0.6666666666666666
+('contra costa county', 'contracostacounty.gov'),0.6666666666666666
+('dessert recipes', 'google'),0.6666666666666666
+('claires', 'google'),0.625
+('disney 20channel.com', 'disneychannel.com'),0.6666666666666666
+('susan sarandon', 'walmart'),0.6666666666666666
+('fifaworldcup', 'google'),0.6666666666666666
+('fifaworldcup', 'honda.com'),0.6666666666666666
+('fifaworldcup', 'google.com'),0.6666666666666666
+('morongo casino', 'mycl.cravelyrics.com'),0.6666666666666666
+('morongo casino', 'travelocity'),0.6666666666666666
+('gogle', 'google'),0.7394957983193278
+('ebert and roper', 'la weight loss'),0.6666666666666666
+('jesus take the wheel lyrics', 'mapquest'),0.6666666666666666
+('www.sportmansguide.com', 'www.sportsmansguide.com'),0.6666666666666666
+('cheap perfume', 'google'),0.6666666666666666
+('www.myscene .com', 'yahoo.com'),0.6666666666666666
+('mobile home financing', 'yahoo'),0.6666666666666666
+('queens center mall', 'roosevelt field mall'),0.6666666666666666
+('geogle', 'yahoo.com'),0.6666666666666666
+('infectious diseases', 'mapquest'),0.6666666666666666
+('infectious diseases', 'white pages'),0.6666666666666666
+('harry potter merchandise', 'msn.espn.go.com'),0.6666666666666666
+('hyatt.com', 'jet blue'),0.6666666666666666
+('www.history.com', 'www.yahoo.com'),0.6666666666666666
+('peedot.com', 'yahoo.com'),0.6666666666666666
+('blue bell ice cream', 'mapquest'),0.6666666666666666
+('angle of repose author', 'astronaut collins'),0.6666666666666666
+('angle of repose author', 'astrolabe alternative'),0.6666666666666666
+('angle of repose author', 'the x-files organization'),0.6666666666666666
+('angle of repose author', 'the power broker author'),0.6666666666666666
+('angle of repose author', "chaucer's pilgrims"),0.6666666666666666
+('angle of repose author', 'the auld sod'),0.6666666666666666
+('wirefly.com', 'yahoo'),0.6666666666666666
+('wirefly.com', 'yahoo.com'),0.6666666666666666
+('kumon', 'mapquest'),0.75
+('kumon', 'yahoo'),0.75
+('kumon', 'target'),0.75
+('boston interiors', 'home depot'),0.6666666666666666
+('boston interiors', 'jordans furniture'),0.6666666666666666
+('boston interiors', 'kentucky derby'),0.6666666666666666
+('boston interiors', 'google'),0.6666666666666666
+('lasagna recipe', 'weather'),0.6666666666666666
+('career', 'yahoo.com'),0.75
+('samsung tv', "samsung tv's"),0.6666666666666666
+('devon', 'ups'),0.6666666666666666
+("mike'sapartment.com", 'myspace'),0.6666666666666666
+('first weber', 'mapquest'),0.6666666666666666
+('cartoonist avery', 'only time singer'),0.6666666666666666
+('cartoonist avery', 'gemayel'),0.6666666666666666
+('cartoonist avery', 'letter before resh'),0.6666666666666666
+('cartoonist avery', 'william styron'),0.6666666666666666
+('cartoonist avery', 'zvereva'),0.6666666666666666
+('cartoonist avery', 'king louis xii birthplace'),0.6666666666666666
+('cartoonist avery', 'speed-skating gold medalist karin'),0.6666666666666666
+('cartoonist avery', "chicago's aquarium"),0.6666666666666666
+('cartoonist avery', 'utah lilies'),0.6666666666666666
+('cartoonist avery', 'trainspotting star bremner'),0.6666666666666666
+('cartoonist avery', 'greek alphabet'),0.6666666666666666
+('cartoonist avery', 'mystery writer john dickson'),0.6666666666666666
+('cartoonist avery', 'film director petri'),0.6666666666666666
+('cartoonist avery', 'river in irkutsk'),0.6666666666666666
+('cartoonist avery', 'singer brickell'),0.6666666666666666
+('cartoonist avery', 'weather'),0.6666666666666666
+('cartoonist avery', 'portrait of a musician artist'),0.6666666666666666
+('the box', 'yahoo'),0.6666666666666666
+('bookstores', 'google'),0.8
+('klm.com', 'nwa.com'),0.6666666666666666
+('klm.com', 'travelocity.com'),0.6666666666666666
+('barnes and noble book store', 'yahoo'),0.6666666666666666
+('barnes and noble book store', 'dictionary'),0.6666666666666666
+('barnes and noble book store', 'home depot'),0.6666666666666666
+('hh greg', 'walmart'),0.6666666666666666
+('hh greg', 'hhgreg'),0.6666666666666666
+('hh greg', 'yahoo.com'),0.6666666666666666
+('body worlds', 'yahoo.com'),0.6666666666666666
+('multiple listing services', 'yahoo.com'),0.6666666666666666
+('abode', 'mailbox'),0.6666666666666666
+('opinion', 'opinion place'),0.6666666666666666
+('gouchos', 'macys'),0.6666666666666666
+('gouchos', 'map quest'),0.6666666666666666
+('live ops', 'renting in spain'),0.6666666666666666
+('live ops', 'working solutions'),0.6666666666666666
+('parenting author eda', 'speed-skating gold medalist karin'),0.6666666666666666
+('parenting author eda', 'phedre playwright'),0.6666666666666666
+('parenting author eda', 'tennis star zvereva'),0.6666666666666666
+('parenting author eda', 'sitarist shankar'),0.6666666666666666
+('parenting author eda', 'utah lilies'),0.6666666666666666
+('parenting author eda', 'the beloved physician'),0.6666666666666666
+('parenting author eda', 'trainspotting star bremner'),0.6666666666666666
+('parenting author eda', 'singer anderson of jethro tull'),0.6666666666666666
+('parenting author eda', 'twin sister of ares'),0.6666666666666666
+('parenting author eda', 'tribe of the amistad slaves'),0.6666666666666666
+('parenting author eda', 'singer brickell'),0.6666666666666666
+('parenting author eda', 'tokyo airport'),0.6666666666666666
+('www.discover.com', 'www.discovercard.com'),0.6666666666666666
+('zenith', 'zenith tv'),0.6666666666666666
+('crabs', 'yahoo'),0.6666666666666666
+('crabs', 'google'),0.6666666666666666
+('driving instruction', 'google'),0.6666666666666666
+('www.cartoonnetwork com', 'www.disney.com'),0.6666666666666666
+('www.cartoonnetwork com', 'www.cartoonnetwork.com'),0.6666666666666666
+('new york city attractions', 'www.google.com'),0.6666666666666666
+('old town florida', 'yellow pages'),0.6666666666666666
+('bank atlantic center', 'google'),0.6666666666666666
+('sexy girl', 'yahoo.com'),0.6666666666666666
+('home interiors and gifts', 'homeinterior'),0.6666666666666666
+('home interiors and gifts', 'yahoo.com'),0.6666666666666666
+('home interiors and gifts', 'homeinteriors'),0.6666666666666666
+('pool houses', 'sams club'),0.75
+('free blackjack', 'www.google.com'),0.6666666666666666
+('banners', 'google'),0.6666666666666666
+('cardmemberservices', 'yahoo'),0.6666666666666666
+('cardmemberservices', 'internet'),0.6666666666666666
+('cardmemberservices', 'verizon'),0.6666666666666666
+('clickondetroit', 'myspace.com'),0.6666666666666666
+('clickondetroit', 'yahoo'),0.6666666666666666
+('clickondetroit', 'costco'),0.6666666666666666
+('clickondetroit', 'clickondetroit.com'),0.6666666666666666
+('www.univision com', 'www.univision.com'),0.6666666666666666
+('tobucket.comhttp', 'www.mysapce.com'),0.6666666666666666
+('dan', 'shoes'),0.6666666666666666
+('dan', 'hsn'),0.6666666666666666
+('dan', 'dictionary'),0.6666666666666666
+('dan', 'nba.com'),0.6666666666666666
+('bumble', 'google.com'),0.6666666666666666
+('ganglion cyst', 'im help'),0.6666666666666666
+('adultfinder', 'ebay'),0.75
+('fomoco', 'google'),0.6666666666666666
+('trying to get pregnant', 'weather channel'),0.6666666666666666
+('careers.org', 'yahoo.com'),0.6666666666666666
+('www.american airline.com', "www.macy's.com"),0.6666666666666666
+('knot', 'the knot'),0.6666666666666666
+('knot', 'mapquest'),0.6666666666666666
+('install java', 'java'),0.6666666666666666
+('www.yahoo games', 'yahoo games'),0.75
+('biggercity.com', 'yahoo'),0.6666666666666666
+('biggercity.com', 'hotmail.com'),0.6666666666666666
+('nine west outlet', 'weather'),0.6666666666666666
+('clear aol history', 'clear history'),0.8
+('gad', 'mapquest'),0.6666666666666666
+('gad', 'zoloft'),0.6666666666666666
+('gad', 'lowes'),0.6666666666666666
+('gad', 'home depot'),0.6666666666666666
+('gad', 'kohls'),0.6666666666666666
+('gad', 'web md'),0.6666666666666666
+('gad', 'target'),0.6666666666666666
+('gad', 'webmd'),0.6666666666666666
+('fender', 'guitar tabs'),0.6666666666666666
+('pep boys.com', 'yahoo.com'),0.6666666666666666
+('pep boys.com', 'yahoo mail'),0.6666666666666666
+('pep boys.com', 'yahoomail'),0.6666666666666666
+('harry potter and the order of the pheonix', 'yahoo.com'),0.6666666666666666
+('harry potter and the order of the pheonix', 'walgreens'),0.6666666666666666
+('cellular south ringtones', 'ringtones'),0.6666666666666666
+('clorox', 'food network'),0.6666666666666666
+('blackwallstreet', 'internet'),0.6666666666666666
+('blackwallstreet', 'www.ru-america.org'),0.6666666666666666
+('blackwallstreet', 'nas'),0.6666666666666666
+('blackwallstreet', 'the game'),0.6666666666666666
+('blackwallstreet', 'www.blackwallstreet.com'),0.6666666666666666
+('pictures of tattoos', 'yahoo.com'),0.6666666666666666
+('pictures of tattoos', 'tatoos'),0.6666666666666666
+('www2stage.panasonic.com', 'yahoo.com'),0.6666666666666666
+('philippine newspapers', 'travelocity'),0.6666666666666666
+('transair', 'travelocity'),0.75
+('easter games', 'mapquest'),0.6666666666666666
+('easter games', 'ebay'),0.6666666666666666
+("www.america'stestkitchen.com", 'www.americastestkitchen.com'),0.6666666666666666
+('first time home buyer', 'mapquest'),0.6666666666666666
+('miniclip games', 'yahoo'),0.6666666666666666
+('flavorflav', 'vh1'),0.6666666666666666
+('www.espn2.com', 'www.yahoo.com'),0.6666666666666666
+('avacor', 'mapquest'),0.6666666666666666
+('grandmas boy', 'http'),0.6666666666666666
+('www.myspace.cokm', 'www.myspace.com'),0.6666666666666666
+('outdoor carpet', 'walmart.com'),0.6666666666666666
+('outdoor carpet', 'walmart'),0.6666666666666666
+('outdoor carpet', 'yellow pages'),0.6666666666666666
+('thirfty car rental', 'thrifty car rental'),0.6666666666666666
+('map ques', 'map quest'),0.6666666666666666
+('fotosearch', 'kohls'),0.6666666666666666
+('child neglect', 'dmv'),0.6666666666666666
+('trout', 'yahoo.com'),0.6666666666666666
+('exxon credit card', 'ups'),0.6666666666666666
+('exxon credit card', 'target'),0.6666666666666666
+('exxon credit card', 'homedepot'),0.6666666666666666
+('steak and cheese', 'yahoo.com'),0.75
+('british rail', 'southwest airlines'),0.6666666666666666
+('23 news', 'ebay.com'),0.6666666666666666
+('yahoo spades', 'yahoo.com'),0.6666666666666666
+('the wichita eagle', 'wichita eagle'),0.6666666666666666
+('the wichita eagle', 'yahoo.com'),0.6666666666666666
+('toast', 'yahoo'),0.6666666666666666
+('baby shower cakes', 'babyshower cakes'),0.6666666666666666
+('www.texasworkforce.org', 'yahoo.com'),0.6666666666666666
+('www.manpower.com', 'www.monster.com'),0.6666666666666666
+('golf.com', 'mapquest'),0.6666666666666666
+('carl sagan', 'dictionary'),0.6666666666666666
+('penthouse forum', 'www.google.com'),0.6666666666666666
+('belmont park', 'monmouth race track'),0.6666666666666666
+('dict', 'gwen stefani'),0.6666666666666666
+('country code', 'internet'),0.6666666666666666
+('canon powershot', 'google'),0.6666666666666666
+('new york giants', 'walmart'),0.6666666666666666
+('god bless the usa lyrics', 'unfaithful lyrics'),0.6666666666666666
+('cltv', 'menards'),0.6666666666666666
+('cltv', 'craigslist'),0.6666666666666666
+('cltv', 'home depot'),0.6666666666666666
+('chaparral motorsports', 'mapquest'),0.6666666666666666
+('meebo', 'msn'),0.6666666666666666
+('meebo', 'yahoo'),0.6666666666666666
+('mysce.com', 'myspace'),0.8571428571428571
+('mysce.com', 'myspace.com'),0.8571428571428571
+('atlantic city entertainment', 'kohls'),0.6666666666666666
+('atlantic city entertainment', 'taj mahal atlantic city'),0.6666666666666666
+('atlantic city entertainment', 'pa lottery'),0.6666666666666666
+('atlantic city entertainment', 'taj mahal'),0.6666666666666666
+('atlantic city entertainment', 'mapquest'),0.6666666666666666
+('avon books', 'yahoo.com'),0.6666666666666666
+('nine west shoes', 'www.ninewest.com'),0.6153846153846154
+('billy mills 2006', 'marne jones'),0.6666666666666666
+('billy mills 2006', 'myspace.com'),0.6666666666666666
+('billy mills 2006', 'www.ugaais'),0.6666666666666666
+('billy mills 2006', 'the last supper'),0.6666666666666666
+('billy mills 2006', 'wayne newton'),0.6666666666666666
+('billy mills 2006', 'nuart theatre'),0.6666666666666666
+('billy mills 2006', 'joe mccoy indiana'),0.6666666666666666
+('billy mills 2006', 'www.indypeacegames.com'),0.6666666666666666
+('billy mills 2006', 'cingularwireless'),0.6666666666666666
+('billy mills 2006', 'cingular wireless'),0.6666666666666666
+('billy mills 2006', 'volvo s60'),0.6666666666666666
+('billy mills 2006', 'lorazapam'),0.6666666666666666
+('billy mills 2006', 'ebay'),0.6666666666666666
+('billy mills 2006', 'billy mills 2006 pictures'),0.6666666666666666
+('billy mills 2006', 'eric olson'),0.6666666666666666
+('88', 'g'),0.6666666666666666
+('carolina jasmine', 'ebay'),0.6666666666666666
+('www.apartment.com', 'yahoo.com'),0.6666666666666666
+('www.apartment.com', 'www.yahoo.com'),0.6666666666666666
+('history trail', 'http'),0.6666666666666666
+('clubmed', 'http'),0.75
+('samhsa', 'yahoo.com'),0.6666666666666666
+('the homestead', 'yahoo'),0.6666666666666666
+('collectables', 'walmart'),0.6666666666666666
+('collectables', 'wine'),0.6666666666666666
+('micro bikini', 'micro bikinis'),0.6666666666666666
+('idiot proof diet', 'mapquest'),0.6666666666666666
+('pokemoncrater.com', 'yahoo.com'),0.6666666666666666
+('car crash', 'ebay'),0.6666666666666666
+('club cadet', 'yahoo'),0.6666666666666666
+('club cadet', 'walmart'),0.6666666666666666
+('bloom', 'google'),0.6666666666666666
+('aol playlist', 'playlist'),0.7142857142857143
+('stephon marbury', 'yahoo.com'),0.6666666666666666
+('www.campingworld.com', 'www.google.com'),0.6666666666666666
+('boston aquarium', 'internet'),0.6666666666666666
+('chevychasebank', 'netflix'),0.6666666666666666
+('chevychasebank', 'dell'),0.6666666666666666
+('www.expressscripts.com', 'www.google.com'),0.6666666666666666
+('aikido', 'craigslist'),0.6666666666666666
+('ggw', 'mapquest'),0.75
+('state disability', 'state of california'),0.6666666666666666
+('menstruation', 'myspace.com'),0.75
+('dry cough', 'google'),0.6666666666666666
+('brunswick', 'mapquest.com'),0.6666666666666666
+('brunswick', 'mapquest'),0.6666666666666666
+('friday the 13th', 'google'),0.75
+('direct merchant', 'sears'),0.6666666666666666
+('direct merchant', 'hsn'),0.6666666666666666
+('direct merchant', 'usps'),0.6666666666666666
+('all state insurance', 'map of usa'),0.6666666666666666
+('all state insurance', 'progressive insurance'),0.6666666666666666
+('galleries.yourexgirlfriends.com', 'http'),0.6666666666666666
+('ebaums world.com', 'myspace'),0.6666666666666666
+('aol im settings', 'google'),0.6666666666666666
+('perillo', 'perillo tours'),0.6666666666666666
+('amazin grace', 'amazing grace'),0.6666666666666666
+('centry21', 'mapquest'),0.8
+('circe', 'google'),0.6666666666666666
+('.thefacebook.com', 'www.google.com'),0.6666666666666666
+('nissan pavilion', 'old navy'),0.6666666666666666
+('nissan pavilion', 'united airlines'),0.6666666666666666
+('bank 20of 20america', 'merrill 20lynch'),0.6666666666666666
+('bank 20of 20america', 'merrill lynch'),0.6666666666666666
+('filing for divorce', 'www.irs'),0.6666666666666666
+('hammacher schlemmer', 'zip codes'),0.6666666666666666
+('hammacher schlemmer', 'mapquest'),0.6666666666666666
+('accessories', 'yahoo'),0.6666666666666666
+('pirate ships', 'ps3'),0.6666666666666666
+('breckenridge co', 'united airlines'),0.6666666666666666
+('guitar tuner', 'mapquest'),0.6666666666666666
+('airgas', 'irs'),0.6666666666666666
+('airgas', 'grainger'),0.6666666666666666
+('laura ashley', 'yahoo.com'),0.6666666666666666
+('laura ashley', 'mapquest'),0.6666666666666666
+('harley davidson credit', 'map quest'),0.6666666666666666
+('harley davidson credit', 'mapquest'),0.6666666666666666
+('iaai', 'pennysaver'),0.6666666666666666
+('iaai', 'yahoo'),0.6666666666666666
+('new look pioneer', "rasta's messiah"),0.6666666666666666
+('new look pioneer', 'robert diniro'),0.6666666666666666
+('altel', 'google'),0.6666666666666666
+('london bridge', 'mapquest'),0.6666666666666666
+('dell coupons', 'yahoo'),0.6666666666666666
+('dell coupons', 'google'),0.6666666666666666
+('dell coupons', 'washingtonmutual'),0.6666666666666666
+('husler', 'playboy'),0.6666666666666666
+('husler', 'play boy'),0.6666666666666666
+('husler', 'yahoo'),0.6666666666666666
+('grand wailea', 'true religion'),0.6666666666666666
+('craigs list chicago', 'craigslist chicago'),0.6666666666666666
+('craigs list chicago', 'whole foods'),0.6666666666666666
+('how things work', 'mapquest'),0.6666666666666666
+('how things work', 'organs'),0.6666666666666666
+('henry david thoreau', 'mapquest'),0.6666666666666666
+('hymen', 'loveline'),0.6666666666666666
+('iceland air', 'travelocity'),0.6666666666666666
+('childrens sermons', 'www.google.com'),0.6666666666666666
+('exchange.bandgeeks.org', 'rotation.queenforaday.org'),0.6666666666666666
+('history.evansville.net', 'www.google.com'),0.6666666666666666
+('history.evansville.net', 'www.myspace.com'),0.6666666666666666
+('history.evansville.net', 'mapquest'),0.6666666666666666
+('hot asses', 'nice asses'),0.6666666666666666
+('hot asses', 'mapquest'),0.6666666666666666
+('hot asses', 'perfect asses'),0.6666666666666666
+('meat smokers', 'smokers'),0.6666666666666666
+('photobu', 'photobucket.com'),0.6666666666666666
+('sweeney todd', 'sweeny todd'),0.6666666666666666
+('roomscape.com', 'www.classmates.com'),0.6666666666666666
+('per se', 'us open'),0.6666666666666666
+('dirt bike parts', 'google'),0.6666666666666666
+('speakers', 'wallpaper'),0.6666666666666666
+('amazon coupons', 'lowes'),0.6666666666666666
+('amazon coupons', 'll bean'),0.6666666666666666
+('amazon coupons', 'best buy'),0.6666666666666666
+('amazon coupons', 'google'),0.6666666666666666
+('wall sconces', 'zip codes'),0.6666666666666666
+('www.high5.com', 'yahoo.com'),0.6666666666666666
+('cylc.org', 'mapquest'),0.6666666666666666
+('cylc.org', 'ebay'),0.6666666666666666
+('cylc.org', 'google'),0.6666666666666666
+('cylc.org', 'google.com'),0.6666666666666666
+('mugglenet', 'yahoo'),0.6666666666666666
+('exxon mobil', 'm'),0.6666666666666666
+('the detroit news', 'yahoo'),0.6666666666666666
+('fence', 'yahoo'),0.6666666666666666
+('nordsrom', 'travelocity'),0.75
+('apartment rental', 'apartment rentals'),0.6666666666666666
+('strauss auto parts', 'weather'),0.6666666666666666
+('gore.com', 'yahoo'),0.6666666666666666
+('gore.com', 'rotten.com'),0.6666666666666666
