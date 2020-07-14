@@ -1,0 +1,7 @@
+Hello!
+Assignment 3 - Big Data Analysis:
+Group I - 
+Student 1: Eliran Shem Tov, ID: 301806097
+
+My Jupyter Notebook could be found in this GitHub Repository:
+https://github.com/eliranshemtov/spark_analytics_exercises/tree/master/Exercise%203
